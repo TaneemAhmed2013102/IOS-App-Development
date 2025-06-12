@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Dicee-iOS13
+//  Dicee
 //
 //  Created by Taneem on 22/09/2024.
 //
